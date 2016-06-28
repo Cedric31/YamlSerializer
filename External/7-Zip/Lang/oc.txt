@@ -1,0 +1,542 @@
+﻿;!@Lang@!UTF-8!
+; 7-Zip 9.07
+; Translated by Cédric Valmary (totenoc.eu)
+;
+;
+;
+
+00000000="Occitan"
+00000001="Occitan"
+00000002="12"
+
+; 7-Zip Configuration
+
+; Title
+01000000="Configuracion de 7-Zip"
+
+; Info Page
+01000100="A prepaus de 7-Zip"
+01000103="7-Zip es un logicial liure. Pasmens, podètz sosténer son desvolopament en vos enregistrant."
+01000104="Supòrt"
+01000105="S'enregistrar"
+
+; Folders Page
+01000200="Dorsièrs"
+01000210="Dorsièr de &trabalh"
+01000211="Dorsièr temporari del &sistèma"
+01000212="Dorsièr &corrent"
+01000213="Dorsièr es&pecificat :"
+01000214="Utilizar pas que pels mèdias amovibles"
+
+01000281="Especificatz un dorsièr pels fichièrs d'archiu temporaris."
+
+; System Page
+01000300="Sistèma"
+01000301="Integrar 7-Zip al menú contextual"
+01000302="Menú contextuel en cascada"
+01000310="Elements del menú contextual :"
+
+; Language Page
+01000400="Lenga"
+01000401="Lenga :"
+
+
+; 7-Zip Explorer extension
+
+; Context menu
+02000101="7-Zip"
+02000102="Comandas 7-Zip"
+02000103="Dobrir"
+02000104="Dobrir l'archiu seleccionat."
+02000105="Extraire los fichièrs..."
+02000106="Extraire los fichièrs de l'archiu seleccionat."
+02000107="Apondre a l'archiu..."
+02000108="Apondre les objets seleccionnés a l'archiu."
+02000109="Contrarotlar l'archiu"
+0200010A="Contrarotlar l'integritat de l'archiu seleccionat."
+0200010B="Extraire aicí"
+0200010C="Extraire los fichièrs de l'archiu seleccionat dins lo dorsièr actual."
+0200010D="Extraire cap a {0}"
+0200010E="Extraire dins un sosdorsièr."
+0200010F="Apondre a {0}"
+02000110="Apondre los elements seleccionats a l'archiu."
+02000111="Compressar e mandar per mail..."
+02000112="Compressar los elements seleccionnés a l'archiu e lo mandar per mail."
+02000113="Compressar cap a {0} e mandar per mail."
+02000114="Compressar los elements seleccionats a l'archiu e lo mandar per mail."
+
+02000140="<Dorsièr>"
+02000141="<Archiu>"
+
+; Properties
+02000203="Camin"
+02000204="Nom"
+02000205="Extension"
+02000206="Dorsièr"
+02000207="Talha"
+02000208="Compressé"
+02000209="Atributs"
+0200020A="Creat lo"
+0200020B="Accedit lo"
+0200020C="Modificat lo"
+0200020D="Solid"
+0200020E="Comentari"
+0200020F="Chifrat"
+02000210="Devesir abans"
+02000211="Devesir aprèp"
+02000212="Diccionari"
+02000213="CRC"
+02000214="Tipe"
+02000215="Anti"
+02000216="Metòde"
+02000217="OS òste"
+02000218="Sistèma de fichièrs"
+02000219="Utilizaire"
+0200021A="Grop"
+0200021B="Blòt"
+0200021C="Comentari"
+0200021D="Posicion"
+0200021E="Prefix"
+0200021F="Dorsièrs"
+02000220="Fichièrs"
+02000221="Version"
+02000222="Volum"
+02000223="Multivolum"
+02000224="Offset"
+02000225="Ligams"
+02000226="Blòts"
+02000227="Volums"
+
+02000229="64 bits"
+0200022A="Big-endian"
+0200022B="CPU"
+0200022C="Talha fisica"
+0200022D="Talha dels entèstas"
+0200022E="Soma de contraròtle"
+0200022F="Caracteristicas"
+02000230="Adreça virtuala"
+02000231="ID"
+02000232="Nom cort"
+02000233="Aplicacion creatritz"
+02000234="Talha de sector"
+02000235="Mòde"
+02000236="Ligam"
+
+; Status bar
+02000301="{0} objècte(s) seleccionné(s)"
+02000302="{0} objècte(s)"
+
+02000320="Fichièrs:"
+02000321="Dorsièrs:"
+02000322="Talha:"
+02000323="Talha compressée:"
+02000324="Archives:"
+
+; List Context Menu
+02000401="&Colomnas..."
+
+02000411="&Dobrir"
+02000412="&Extraire..."
+
+; ToolBar
+02000501="Extraire"
+
+; Messages
+02000601="Las operacions de mesa a jorn son pas disponiblas per aqueste archiu."
+02000602="L'archiu '{0}' pòt pas èsser mes a jorn"
+02000603="Lo dorsièr '{0}' pòt pas èsser creat"
+02000604="Lo fichièr es pas un archiu valid."
+02000605="Error a l'invocacion de la comanda"
+02000606="Tròp d'objèctes"
+02000607="Cap d'aplicacion es pas associada amb aqueste tipe de fichièr"
+02000608="I a pas d'errors"
+02000609="Lo fichièr '{0}' pòt pas èsser dobèrt coma un archiu"
+0200060A="L'archiu chifrat '{0}' pòt pas èsser dobèrt. Marrit senhal ?"
+0200060B="Lo sistèma pòt pas allogar la quantitat de memòria necessària"
+0200060C="Error d'origina desconeguda"
+0200060D="Aqueste tipe d'archiu es pas suportat"
+
+; Dialogs
+02000702="OK"
+02000705="&Òc"
+02000707="Òc per totes"
+02000709="&Non"
+0200070B="Non per totes"
+
+02000710="Anullar"
+02000711="&Anullar"
+02000713="&Tampar"
+02000714="Stop"
+02000715="Reaviar"
+
+02000720="Aide"
+
+; Extract dialog
+02000800="Extraire"
+02000801="E&xtraire cap a:"
+02000802="Senhal"
+
+02000810="Camins"
+02000811="Camins complets"
+02000812="Camins relatifs"
+02000813="Pas de camin"
+
+02000820="Mòde de remplaçament"
+02000821="Confirmar abans de remplaçar"
+02000822="Remplaçar sens demandar"
+02000823="Ignorar los fichièrs existents"
+02000824="Renomenar automaticament"
+02000825="Renomenar los fichièrs existents"
+
+02000830="Fichièrs"
+02000831="&Fichièrs seleccionnés"
+02000832="&Totes los fichièrs"
+
+02000881="Causissètz un dorsièr per l'extraccion delms fichièrs."
+
+02000890="Extraction"
+
+; Overwrite dialog
+02000900="Confirmar lo remplaçament de fichièr"
+02000901="Lo dorsièr de destinacion conten ja un fichièr amb aqueste nom."
+02000902="Volètz remplaçar lo fichièr existant"
+02000903="per aqueste ?"
+
+02000911="Renomenar &automaticament"
+
+02000982="{0} octets"
+02000983="modificat lo"
+
+; Messages dialog
+02000A00="Messatges de diagnostic"
+
+02000A80="Messatge"
+
+02000A91="Metòde de compression pas valid per '{0}'."
+02000A92="Donada erronèa dins lo fichièr '{0}'. Lo fichièr es corromput."
+02000A93="Fracàs del contraròtle CRC dins lo fichièr '{0}'. Lo fichièr es corromput."
+02000A94="Donada erronèa dins lo fichièr chifrat '{0}'. Marrit senhal?"
+02000A95="Fracàs del contraròtle CRC dins lo fichièr chifrat '{0}'. Marrit senhal?"
+
+; Password dialog
+02000B00="Entrez lo senhal"
+02000B01="Entrez lo senhal:"
+02000B02="&Afichar lo senhal"
+02000B03="Entrez lo senhal a novèl:"
+02000B10="Les senhals ne correspondent pas"
+02000B11="Pour lo senhal, n'utilisez que des lettres non accentuées, des chiffres e des caractères spéciaux (!, #, $, ...)"
+02000B12="Lo senhal est tròp long"
+
+; Progress dialog
+02000C00="Procedís"
+02000C01="Temps passat :"
+02000C02="Temps restant :"
+02000C03="Talha :"
+02000C04="Velocitat :"
+02000C05="Tractat :"
+02000C06="Taus de compression:"
+
+02000C10="&Rèireplan"
+02000C11="&Avantplan"
+02000C12="&Pausa"
+02000C13="&Contunhar"
+
+02000C20="En pausa"
+
+02000C30="Sètz segur que volètz anullar ?"
+
+; Compress dialog
+02000D00="Apondre a l'archiu"
+02000D01="&Archiu:"
+02000D02="&Mòde de mesa a jorn:"
+02000D03="&Format de l'archiu:"
+02000D04="Type de &compression:"
+02000D05="Crear un archiu &solide"
+02000D06="&Paramètres:"
+02000D07="Opcions"
+02000D08="Crear un archiu SF&X"
+02000D09="Multi-threading"
+02000D0A="Chifrar los &noms de fichièrs"
+02000D0B="N&ivèl de compression :"
+02000D0C="&Talha del diccionari :"
+02000D0D="Ta&lha dels mots :"
+02000D0E="Memòria per la compression :"
+02000D0F="Memòria per la descompression :"
+02000D10="Chifratge"
+02000D11="Metòde de chifratge:"
+02000D12="Nombre de threads CPU:"
+02000D13="Talha de blòt solid :"
+02000D14="Pas solid"
+02000D15="Solid"
+02000D16="Compressar de fichièrs partejats"
+
+02000D40="Découper en &volums, octets:"
+02000D41="Talha de volum incorrecte"
+02000D42="Talha de volum spécifiée: {0} octets.\nSètz segur que volètz decopar l'archiu dins de tals volums ?"
+
+02000D81="Pas cap"
+02000D82="Normala"
+02000D83="Maximum"
+02000D84="Rapid"
+02000D85="Lo mai rapid"
+02000D86="Ultra"
+
+02000D90="Causir"
+
+02000DA1="Apondre e remplaçar los fichièrs"
+02000DA2="Metre a jorn e apondre los fichièrs"
+02000DA3="Refrescar los fichièrs existants"
+02000DA4="Sincronizar los fichièrs"
+
+02000DB1="Totes los fichièrs"
+
+02000DC0="Compression"
+
+; Columns dialog
+02000E00="Colomnas"
+02000E01="Marcatz las colomnas que volètz afichar. Utilizatz los botons Montar e Davalar per modificar lor òrdre."
+02000E02="La colomna seleccionada deu far"
+02000E03="pixèls de &large."
+
+02000E10="Mon&tar"
+02000E11="&Davalar"
+02000E12="&Afichar"
+02000E13="A&magar"
+02000E14="Salvar"
+
+02000E81="Títol"
+02000E82="Largor"
+
+; Testing
+02000F90="Contraròtle"
+
+
+; File Manager
+
+03000000="Gestionari de fichièr de 7-Zip"
+
+; Menu
+03000102="&Fichièr"
+03000103="&Edicion"
+03000104="Afic&hatge"
+03000105="&Aisinas"
+03000106="&Ajuda"
+03000107="Fa&vorits"
+
+; File
+03000210="&Dobrir"
+03000211="Dobrir a l'&interior"
+03000212="Dobrir a l'e&xterior"
+03000220="&Voir"
+03000221="&Edition"
+03000230="Reno&menar"
+03000231="&Copiar cap a..."
+03000232="&Desplaçar cap a..."
+03000233="S&uprimir"
+03000240="P&roprietats"
+03000241="Come&ntari"
+03000242="Soma de contraròtle"
+03000243="Diff"
+03000250="Crear un dorsièr"
+03000251="Crear un fichièr"
+03000260="&Quitar"
+03000270="Devesir lo &fichièr ..."
+03000271="Combinar los fic&hiers ..."
+
+; Edit
+03000310="&Anullar"
+03000311="&Refar"
+03000320="&Talhar"
+03000321="Co&piar"
+03000322="&Pegar"
+03000323="S&uprimir"
+03000330="Seleccionar &tot"
+03000331="Deseleccionar tot"
+03000332="&Inversar la seleccion"
+03000333="Seleccionar..."
+03000334="Déseleccionar..."
+03000335="Seleccionar per tipe"
+03000336="Déseleccionar per tipe"
+
+; View
+03000410="&Grandas icònas"
+03000411="&Pichonas icònas"
+03000412="&Lista"
+03000413="&Detalhs"
+03000420="Pas triat"
+03000430="Dobrir lo dorsièr raiç"
+03000431="Dorsièr parent"
+03000432="Istoric dels dorsièrs..."
+03000440="Actualiz&ar"
+03000449="Vista a plat"
+03000450="&2 Fenèstras"
+03000451="&Barras d'aisinas"
+03000460="Barra d'archiu"
+03000461="Barra estandarda"
+03000462="Grands botons"
+03000463="Mostrar lo tèxte"
+
+; Tools
+03000510="&Opcions..."
+03000511="Tèst de performància"
+
+; Help
+03000610="&Contengut..."
+03000620="A &prepaus de 7-Zip..."
+
+; Favorites
+03000710="&Apondre lo repertòri als favorits"
+03000720="Signet"
+
+; Options Dialog
+
+03010000="Opcions"
+
+; Plugins
+03010100="Plugins"
+03010101="&Plugins:"
+03010110="Opcions..."
+
+; Edit
+03010200="Editor"
+03010201="&Editor:"
+03010202="&Diff:"
+
+; System
+03010300="Sistèma"
+03010302="Associar 7-Zip amb:"
+03010310="Plugin"
+
+; Settings
+03010400="Paramètres"
+03010401="Afichar l'element \"..\""
+03010402="Afichar las icònas vertadièras dels fichièrs"
+03010410="Afichar lo menú sistèma"
+03010420="Seleccionar tota la linha"
+03010421="Afichar la grasilha"
+03010422="Simple clic per dobrir un item"
+03010430="Utilizar la seleccion alternativa"
+03010440="Utilizar de gròssas paginas memòria"
+
+; Strings
+
+03020201="Copiar"
+03020202="Desplaçar"
+03020203="Copiar dins:"
+03020204="Desplaçar cap a :"
+03020205="Còpia..."
+03020206="Desplaçament..."
+03020207="Podètz pas desplaçar o copiar d'objèctes per de tals dorsièrs."
+03020208="L'operacion es pas possibla."
+03020209="Seleccionatz lo dorsièr de destinacion."
+
+03020210="Confirmar la supression del fichièr"
+03020211="Confirmar la supression del dorsièr"
+03020212="Confirmar la supression de totes los fichièrs"
+03020213="Sètz segur que volètz suprimir '{0}'?"
+03020214="Sètz segur que volètz suprimir lo dorsièr '{0}' e tot çò que conten ?"
+03020215="Sètz segur que volètz suprimir ces {0} objets ?"
+03020216="Supression..."
+03020217="Error pendent la supression del fichièr o del dorsièr"
+03020218="Lo sistèma pòt pas metre a l'escobilhièr un fichièr amb un tròp long camin d'accès"
+
+03020220="Renomenatge..."
+03020221="Error pendent lo renomenatge del fichièr o del dorsièr"
+03020222="Confirmation de la còpia de fichièrs"
+03020223="Confirmar la còpia del(s) fichièr(s)"
+
+03020230="Crear un dorsièr"
+03020231="Nom del dorsièr:"
+03020232="Novèl dorsièr"
+03020233="Error pendent la creacion del dorsièr"
+
+03020240="Crear un fichièr"
+03020241="Nom del fichièr:"
+03020242="Fichièr novèl"
+03020243="Error pendent la creacion del fichièr"
+
+03020250="Seleccionar"
+03020251="Deseleccionar"
+03020252="Masqueta :"
+
+03020260="Istoric dels dorsièrs"
+
+03020280="Lo fichièr '{0}' a été modifié.\nVolètz lo metre a jorn dins l'archiu ?"
+03020281="Impossible de metre a jorn\n'{0}'"
+03020282="Impossible d'aviar l'editor."
+03020283="Dobertura..."
+03020284="Benlèu que lo fichièr es un virús (lo nom conten de grands espaçaments per amagar l'extension)."
+
+03020290="Comentari"
+03020291="&Comentari:"
+
+030202A0="Sistèma"
+
+03020300="Ordenador"
+03020301="Ret"
+03020302="Documents"
+
+03020400="Apondre"
+03020401="Extraire"
+03020402="Testar"
+
+03020420="Copiar"
+03020421="Desplaçar"
+03020422="Suprimir"
+03020423="Informacions"
+
+03020500="Devesir lo fichièr"
+03020501="&Devesir en :"
+03020510="Division..."
+03020520="Confirmatz lo decopatge"
+03020521="Sètz segur que volètz decopar lo fichièr en {0} volums ?"
+03020522="La talha de volum deu èsser inferiora a la talha del fichièr d'origina"
+
+03020600="Combinar los fichièrs"
+03020601="&Combinar en :"
+03020610="Combinason..."
+03020620="Seleccionetz pas que lo primièr fichièr"
+03020621="Tròba pas cap de fichièr que fa partida d'un archiu devesit"
+03020622="Tròba pas qu'un sol fichièr que fa partida d'un archiu devesit"
+
+03020710="Calcul de la soma de contraròtle..."
+03020720="Informacions sus la soma de contraròtle"
+03020721="Soma de contraròtle de las donadas"
+03020722="Soma de contraròtle de las donadas e dels noms"
+
+03020800="Exploracion..."
+
+03020900="Proprietats"
+
+03020A01="Aquesta operacion pòt pas èsser efectuada dempuèi un dorsièr qu'a un camin d'accès tròp long"
+03020A02="Vos cal seleccionar un fichièr"
+03020A03="Vos cal seleccionar un o mantun fichièr"
+03020A04="Lo fichièr {0} existis ja"
+
+; Computer
+03031100="Talha totala"
+03031101="Espaci liure"
+03031102="Talha dels clusters"
+03031103="Nom de volum"
+
+; Network
+03031200="Nom local"
+03031201="Provesidor"
+
+; Benchmark Dialog
+
+03080000="Tèst de performància"
+03080001="Utilizacion de la memòria :"
+03080002="Compression"
+03080003="Descompression"
+03080004="Velocitat"
+03080005="Taus"
+03080006="Taus total"
+03080007="Actual"
+03080008="Resultant"
+03080009="Passes:"
+0308000A="Errors:"
+0308000B="Utilizacion CPU"
+0308000C="Estim.. / Usatge"
+
+;!@LangEnd@!
